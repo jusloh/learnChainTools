@@ -1,0 +1,9 @@
+{
+  "name": "learnChainTools",
+  "version": "1.0.0",
+  "description": "https://blog.usejournal.com/creating-a-react-app-from-scratch-f3c693b84658",
+  "main": "index.js",
+  "repository": "https://github.com/jusloh/learnChainTools.git",
+  "author": "Jedai Saboteur",
+  "license": "MIT"
+}
